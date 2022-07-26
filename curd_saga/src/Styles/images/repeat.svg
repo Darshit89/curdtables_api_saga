@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="62px" viewBox="0 0 60 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>repeat (1)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="repeat-(1)" transform="translate(4.000000, 2.000000)" stroke="#FD8668" stroke-width="7">
+            <g id="Group-15" transform="translate(0.737106, 0.527596)">
+                <path d="M48.8037377,11.4490451 L14,11.4490451 C6.2680135,11.4490451 2.84217094e-14,17.7170587 2.84217094e-14,25.4490451 L2.84217094e-14,28.4167586 L2.84217094e-14,28.4167586" id="Path-3"></path>
+                <polyline id="Path-4" points="38.6615475 3.78956126e-14 49.875726 11.4490451 38.6615475 22.8099088"></polyline>
+            </g>
+            <g id="Group-13" transform="translate(25.737106, 43.027596) rotate(180.000000) translate(-25.737106, -43.027596) translate(0.737106, 28.527596)">
+                <path d="M48.8037377,11.4490451 L14,11.4490451 C6.2680135,11.4490451 2.84217094e-14,17.7170587 2.84217094e-14,25.4490451 L2.84217094e-14,28.4167586 L2.84217094e-14,28.4167586" id="Path-3-Copy"></path>
+                <polyline id="Path-4-Copy" points="38.6615475 3.78956126e-14 49.875726 11.4490451 38.6615475 22.8099088"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
